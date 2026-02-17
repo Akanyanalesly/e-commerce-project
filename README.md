@@ -12,7 +12,7 @@ A Spring Boot REST API for managing products in an e-commerce system.
 Database: ecommerce_db
 Port: 5432
 Username: postgres
-Password: 123
+
 ```
 
 ## API Endpoints
@@ -104,6 +104,6 @@ Server runs on: `http://localhost:8080`
 
 
 
-https://github.com/Akanyanalesly/Spring-boot-projects/tree/restFull_api_26594
 
-https://github.com/Akanyanalesly/e-commerce-project
+
+
