@@ -56,7 +56,8 @@ Password: 123
 
 #### Get Product by ID
 **GET** `/api/products/{id}`
-## By using http://localhost:8080/api/products/3 to get the product of the ID i want
+
+## By using(http://localhost:8080/api/products/3) to get the product of the ID i want
 
 
 <img width="358" height="358" alt="Image" src="https://github.com/user-attachments/assets/33369793-2397-4eef-a399-cfe343cf7a89" />
@@ -76,7 +77,9 @@ Password: 123
         "stockQuantity": 50
     }
 ```
-## By using PUT method I was able to update stockquantoty of Nike Air Max from 40 to 50, using (http://localhost:8080/api/products/5)
+
+#### By using PUT method I was able to update stockquantoty of Nike Air Max from 40 to 50, using (http://localhost:8080/api/products/5)
+
 
 
 <img width="353" height="326" alt="Image" src="https://github.com/user-attachments/assets/93752838-8158-45c0-88e0-201258a9a33d" />
@@ -84,7 +87,8 @@ Password: 123
 
 #### Delete Product
 **DELETE** `/api/products/{id}`
-##Using http://localhost:8080/api/products/6 i was able to delete this product
+
+##Using (http://localhost:8080/api/products/6) i was able to delete this product
 
 
 <img width="338" height="359" alt="Image" src="https://github.com/user-attachments/assets/d46b05a2-cdd6-42f2-a039-089ba15d1f0a" />
