@@ -34,7 +34,7 @@ Username: postgres
 
 ```
 
-## Ihave use Post Method to add atleast 3 Products.
+## I have used Post Method to add atleast 3 Products.
 
 
 <img width="352" height="349" alt="Image" src="https://github.com/user-attachments/assets/f2e5a692-5988-44e8-a7a3-9977ba1c7603" />
@@ -78,7 +78,7 @@ Username: postgres
     }
 ```
 
-#### By using PUT method I was able to update stockquantoty of Nike Air Max from 40 to 50, using (http://localhost:8080/api/products/5)
+## By using PUT method I was able to update stockquantoty of Nike Air Max from 40 to 50, using (http://localhost:8080/api/products/5)
 
 
 
@@ -92,6 +92,11 @@ Username: postgres
 
 
 <img width="338" height="359" alt="Image" src="https://github.com/user-attachments/assets/d46b05a2-cdd6-42f2-a039-089ba15d1f0a" />
+
+## Finally checking in my Postgresql i was able to see my products in the table 
+
+
+<img width="781" height="448" alt="Image" src="https://github.com/user-attachments/assets/3926797b-9509-4d36-9da3-7428436106d6" />
 
 
 
